@@ -1,0 +1,7 @@
+{
+  "name": "g-box",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
